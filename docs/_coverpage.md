@@ -2,6 +2,6 @@
 
 > Zero to the Master
 
-[GitHub](https://www.cnblogs.com/askscuti)
+[GitHub](https://github.com/askscuti/ztm.git)
 [开启阅读](README.md)
 
